@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import {Buttons} from './03-button/03-button';
+import Hooks from './04-hooks/Hooks';
 
 function App() {
     return (
         <div className="App">
-            <Buttons />
+
         </div>
     );
 }
