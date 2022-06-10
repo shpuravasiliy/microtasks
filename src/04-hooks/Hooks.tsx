@@ -2,8 +2,6 @@ import React, {useState} from 'react';
 
 const Hooks = () => {
 
-    // let a = 1;
-
     let [a, setA] = useState(1);
 
     const onClickHandler = () => {
